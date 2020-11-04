@@ -425,6 +425,11 @@
 			"require": "clike",
 			"owner": "arnehormann"
 		},
+		"ugo": {
+			"title": "uGo",
+			"require": "clike",
+			"owner": "ozanh"
+		},
 		"graphql": {
 			"title": "GraphQL",
 			"optional": ["markdown"],
